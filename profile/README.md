@@ -1,7 +1,7 @@
 # AIMP Player – Advanced Audio Player for Windows
 
 <p align="center">
-  <img src="https://www.aimp.ru/files/images/aimp_logo.png](https://cdn.dribbble.com/userupload/23482879/file/original-088454cb983701d7931b44370509f6a1.png" alt="AIMP Player Logo"/>
+  <img src="https://images.seeklogo.com/logo-png/32/1/aimp-logo-png_seeklogo-328955.png" alt="AIMP Player Logo"/>
 </p>
 
 <p align="center">
